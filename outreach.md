@@ -80,7 +80,7 @@ Click [here](https://www.linkedin.com/in/matruiz/) to learn more about me!
 
 **Maya Raman, Outreach Officer 2020-2021**
 
-![maya](../ai-photos/outreach/maya.jpg){:height="200px" width="200px"}{: style="float: left; margin-right: 1em;"}
+![maya](../ai-photos/outreach/maya.JPG){:height="200px" width="200px"}{: style="float: left; margin-right: 1em;"}
 
 Hello! I’m Maya, and I am a first-year computer science student. I applied to join ACM AI in a typical last-minute fashion (started 14 minutes before the deadline, to be exact) because I knew it had something to do with artificial intelligence, but I didn’t know exactly what. I received an interview during which I revealed just how abysmal my knowledge of AI was, and somehow became an intern for ACM AI Outreach. 
 
