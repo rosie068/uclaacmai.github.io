@@ -18,6 +18,9 @@ Our first iteration of the course took place at North Hollywood High School duri
 
 Unfortunately, due to the COVID-19 pandemic, we had to halt site visits starting mid-March. But, we are still developing online content! We are in a unique position to re-define the role of technology in education. So, we are making a podcast, short videos, and even Tik Toks to continue to connect with our students while they are learning from home 😃 We are also working hard to update and add to our resources, so continue to check out the Teach LA website. Notably, we are collaborating with the Teach LA dev team to engineer modules that help students [visualize gradient descent](https://uclaacm.github.io/gradient-descent-visualiser/), [how to compute MSE loss](https://uclaacm.github.io/getting-mean-about-error/), and perform forward propagation in a neural network.
 
+Here is a video to our students:
+[![North Hollywood High School AI/ML Course COVID-19 Video to Students](../ai-photos/alt_hi_nhhs.png)](../ai-photos/hi_nhhs.mp4 "North Hollywood High School AI/ML Course COVID-19 Video to Students")
+
 ## One-Off Events
 
 During the 2019-2020 school year, we held Demystifying AI, an event which aimed to expose aspiring entrepreneurs to avenues by which they could integrate AI into their products. We have also run workshops and tabled at many on-campus events, like QWER Hacks and [exploretech.la](http://exploretech.la). Additionally, we have visited schools, like the Archer School for Girls, to introduce students to the world of AI.
