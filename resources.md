@@ -6,6 +6,34 @@ permalink: /resources/
 
 Here, you'll find all of ACM AI's content over the years, including code, blog posts, notes, and slides. Enjoy!
 
+## Spring 2020
+
+### ACM AI Outreach
+#### Freely-accesible [slides + code + homework assignments](https://teachla.uclaacm.com/resources) covering the following topics:
+1. What is AI?
+2. What is ML? 
+3. Plotting data
+4. Supervised learning framework
+5. Machine learning math
+6. Gradient descent
+7. Linear regression
+8. Logistic regression
+9. Bayes' theorem and normal distribution
+10. Introduction to fully-connected neural networks
+11. Optimization and regularization
+12. Introduction to convolutional neural networks
+13. AI ethics and self-driving cars
+14. MNIST classification using CNNs implemented in Keras
+
+#### Conceptual visualization modules
+- [Gradient descent](https://uclaacm.github.io/gradient-descent-visualiser/)
+- [Mean-squared error loss](https://uclaacm.github.io/getting-mean-about-error/)
+- Forward propagation in a neural network (coming soon!)
+
+#### [TikToks](https://www.tiktok.com/@northhollywoodaimlcourse)
+
+#### "You Belong in AI!" podcast episodes (coming soon!)
+
 ## Fall 2018
 
 ### Beginner Track
