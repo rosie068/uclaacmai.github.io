@@ -32,7 +32,7 @@ Here, you'll find all of ACM AI's content over the years, including code, blog p
 
 #### [TikToks](https://www.tiktok.com/@northhollywoodaimlcourse)
 
-#### "You Belong in AI!" podcast episodes (coming soon!)
+#### ["You Belong in AI!" podcast episodes](https://anchor.fm/ucla-acm-ai)
 
 ## Fall 2018
 
