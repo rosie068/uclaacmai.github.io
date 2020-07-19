@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Arjun Subramonian | To My Outeach Bayes: My First Year in AI Outreach 
+title: Arjun Subramonian | To My Outeach Bayes - My First Year in AI Outreach 
+author: Arjun Subramonian
 ---
 
 Aaaah it's been a whole year since Outreach started, and I'm still shocked by how large it has grown in such a short time! All of this started in Summer 2019 with just Sharvani and I really trying to shoot for the moon. We were both passionate about making an AI education accessible to everyone, i.e. non-CS majors, youth in the Greater LA area, etc. We met multiple times a week that summer, making as much content as possible for the NHHS AI/ML course and Demystifying AI course. But, we were just two people... Organizing and sustaining the high school course began devouring our time, which led to a subpar, yet respectable, Demystifying AI on the ethics and AI behind self-driving car. We found ourselves unable to achieve all our ideas.

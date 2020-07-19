@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Peter Flanders | Why I am excited to be a part of AI: My First Quarter as an AI Outreach Officer
+title: Peter Flanders | Why I am excited to be a part of AI - My First Quarter as an AI Outreach Officer
+author: Peter Flanders
 ---
 
 I enjoy being a part of ACM AI for many reasons. I am interested in the field we study, I like to teach others, and I believe in the mission of our club. I am uncertain about what I will pursue beyond college, but right now I have found a couple things I like. I enjoy studying math and machine learning and secondly I really enjoy teaching and I wish to continue following these interests. Additionally, I really like our group of volunteers and how we have a lot of freedom with our work. This  way nobody is forced to throw together half effort projects and we are able to keep high standards. 

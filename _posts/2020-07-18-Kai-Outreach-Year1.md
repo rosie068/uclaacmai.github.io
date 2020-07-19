@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Kai Tota | Going A(ll) I(n): My First Year in Outreach
+title: Kai Tota | Going A(ll) I(n) - My First Year in Outreach
+author: Kai Tota
 ---
 
 Coming into UCLA, I had no experience with computer science, let alone AI. The math, notation, and coding I had glimpses of in the past were daunting, yet still I was captivated. So I applied to ACM AI Outreach on a whim. I knew there was a chance that I’d be a little foreign to the material, but I just went for it. And I am beyond glad that I did.

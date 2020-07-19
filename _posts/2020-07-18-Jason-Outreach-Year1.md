@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jason Jewik | After A Year with the ACM AI Fam
+author: Jason Jewik
 ---
 
 After a year with ACM AI Outreach + Events, there are a few things that stick out to me most.  Firstly, I love how passionate everyone is about not just AI but also mentoring younger students who otherwise might not feel welcome to explore CS, let alone ML. I’m grateful to the senior officers for being patient with me as I struggle to understand the concepts I’m supposed to be teaching (whoops). Furthermore, I’m continually inspired by the dedication of my fellow officers to producing quality educational content—like c’mon, have you SEEN the slides on supervised learning or convolutional neural networks? They’re beautifully done presentations: memes, basketballs, and all. 

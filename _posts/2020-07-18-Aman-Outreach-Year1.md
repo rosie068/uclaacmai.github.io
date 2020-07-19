@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aman Oberoi | My First Year in Outreach
+author: Aman Oberoi
 ---
 
 I arbitrarily applied for an interview with ACM AI outreach because I enjoy teaching concepts and I had recently been introduced to machine learning, and that decision has helped me grow a lot in my first year at college. Learning topics on my own and then discussing my doubts and ideas with likeminded people has been a very productive experience.

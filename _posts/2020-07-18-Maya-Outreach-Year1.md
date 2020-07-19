@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Maya Raman | Ramblings Longer Than Your Neural Network Training Time: My First Year in Outreach
+title: Maya Raman | Ramblings Longer Than Your Neural Network Training Time - My First Year in Outreach
+author: Maya Raman
 ---
 
 <h2>What I Most Love</h2>

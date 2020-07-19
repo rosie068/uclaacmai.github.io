@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sumedha Kanthamneni | My First Quarter as an AI Outreach Officer
+author: Sumedha Kanthamneni
 ---
 
 When I came to UCLA, I wasn’t a computer science major. In fact, my entire computer science experience could be attributed to a single semester high school class, and I definitely didn’t know a thing about machine learning. Deciding to switch into the major for me felt like joining a race an hour after everyone else had already left the starting line. I felt lacking -- both in my knowledge and confidence. But I had the support of my friends and the culture of inclusion among the people I have met, and that gave me a lot of courage. I am so incredibly grateful for that and that’s why I decided to join ACM AI Outreach. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nisha McNealis | My First Year in Outreach
+author: Nisha McNealis
 ---
 
 It’s hard to believe that less than a year ago, I was sitting in the ACM Clubhouse with nine strangers and no idea what I was getting myself into. I knew I liked AI and I liked teaching, so ACM AI Outreach seemed like a good fit. But, as cheesy as it may sound, the committee I joined went wayyyy beyond AI and teaching.

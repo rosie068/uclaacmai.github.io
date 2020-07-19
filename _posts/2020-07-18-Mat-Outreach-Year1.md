@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Mat Ruíz | Backpropping Through My First Year on AI Outreach
+author: Mat Ruíz
 ---
 
-I can still remember the night I applied to join the Outreach team: 11:50pm in a Hedrick Summit lounge, 9 minutes before the application deadline, hesitating whether or not it was even worth the shot. I thought to myself... You Only `Look` Live Once… so I applied on a limb—a decision I am ever so grateful for…
+I can still remember the night I applied to join the Outreach team: 11:50pm in a Hedrick Summit lounge, 9 minutes before the application deadline, hesitating whether or not it was even worth the shot. I thought to myself... You Only ~~Look~~ Live Once… so I applied on a limb—a decision I am ever so grateful for…
 
 For the first few months on the team, Sharvani and Arjun went great lengths to help us interns get up to speed on the basics of ML. Their help shouldn’t go unnoticed. They essentially carried us through logistic regression, gradient descent (Arjun’s legendary backprop lecture in The Study will go down in history), and even CNNs in less than a quarter (crazy!). Looking back, it was pretty insane the amount we learned in all that time, and still continue to learn today. I really couldn’t have asked for a better onboarding to ML and AI.
 
