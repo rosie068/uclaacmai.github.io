@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arjun Subramonian | To My Outeach Bayes - My First Year in AI Outreach 
+title: Arjun Subramonian | To My Outreach Bayes - My First Year in AI Outreach 
 author: Arjun Subramonian
 ---
 
