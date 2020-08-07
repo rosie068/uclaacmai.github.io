@@ -9,7 +9,7 @@ Here, you'll find all of ACM AI's content over the years, including code, blog p
 ## Spring 2020
 
 ### ACM AI Outreach
-#### Freely-accesible [slides + code + homework assignments](https://teachla.uclaacm.com/resources) covering the following topics:
+#### Freely-accesible [slides + code + homework assignments](https://teachla.uclaacm.com/classes/ml) covering the following topics:
 1. What is AI?
 2. What is ML? 
 3. Plotting data

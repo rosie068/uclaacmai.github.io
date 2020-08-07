@@ -10,7 +10,7 @@ Hey hi hello, nice to meet you! We’re ACM AI Outreach, the branch of ACM AI de
 
 AI and ML have become extremely prevalent in society, from powering the voice assistants on our smartphones to improving medical diagnoses. Regardless of what areas high schoolers plan to pursue upon graduation, they’re likely to encounter AI and ML-related technologies in their future careers.
 
-As such, in Fall 2019, the Outreach team partnered with ACM Teach LA to organize a high-school course to teach AI and ML theory and applications. We designed the course from scratch, from the ground up. Working together for hours each week, we crafted each set of slides, developed each Colab notebook, carefully designed each homework assignment, and curated a list of amazing external content to engage our students while benefiting their understanding of AI theory and applications. You can check out our [freely-accessible resources](https://teachla.uclaacm.com/resources) any time.
+As such, in Fall 2019, the Outreach team partnered with ACM Teach LA to organize a high-school course to teach AI and ML theory and applications. We designed the course from scratch, from the ground up. Working together for hours each week, we crafted each set of slides, developed each Colab notebook, carefully designed each homework assignment, and curated a list of amazing external content to engage our students while benefiting their understanding of AI theory and applications. You can check out our [freely-accessible resources](https://teachla.uclaacm.com/classes/ml) any time.
 
 What kept us going? Our firm belief that, by spreading knowledge of AI/ML to youth,  they will become interested in exploring technology-related fields!
 
