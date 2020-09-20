@@ -9,17 +9,29 @@ ACM AI is the largest AI-related organization at UCLA, and is one of the committ
 We have three main subcommittees: workshops, projects, and outreach. Each of these provide opportunities for students with various skill levels and interests to get involved with our organization!
 
 ### Officers
-- Megha Ilango (President)
-- Aaron Philip (Workshops Director)
-- Keshav Prasanna (Projects Director)
-- Sharvani Jha (Outreach Director)
-- Harsh Chobisa
+- John Dang (President)
+- Maya Raman (Events Director)
+- Arjun Subramonian (Outreach Director)
+- Harsh Chobisa (Projects Director)
+- Vaishnavi Tipireddy (Workshops Director)
+- Peter Flanders
+- Jason Jewik
+- Aman Oberoi
+- Nisha McNealis
+- Kaivalya Tota
+- Sumedha Kanthamneni
+- Matthew Ruiz
+- Frank Zheng
+- Jenson Choi
+- Adithya Nair
 - Ben Limpanukorn
+- Sudhanshu Agrawal
+- Justin Yi
+- Paymon Haddad
 - Varun Sivashankar
-- Vaishnavi Tipireddy
-- Bryan Chiang
-- John Dang
-- Arjun Subramonian
+- Sharvani Jha
+- Megha Ilango
+- Kesava Prasanna
 
 ### A few of our past events
 
