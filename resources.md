@@ -30,7 +30,7 @@ Here, you'll find all of ACM AI's content over the years, including code, blog p
 - [Mean-squared error loss](https://uclaacm.github.io/getting-mean-about-error/)
 - Forward propagation in a neural network (coming soon!)
 
-#### [TikToks](https://www.tiktok.com/@northhollywoodaimlcourse)
+#### [Tik Toks](https://www.tiktok.com/@teachlaaimlcourse/)
 
 #### ["You Belong in AI!" podcast episodes](https://anchor.fm/ucla-acm-ai)
 
