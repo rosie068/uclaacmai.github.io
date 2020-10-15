@@ -6,6 +6,8 @@ permalink: /outreach/
 
 Hey hi hello, nice to meet you! We’re ACM AI Outreach, the branch of ACM AI dedicated to inspiring youth in the LA area to learn about artificial intelligence and machine learning. We began in April 2019, and quickly became ACM AI’s fastest-growing initiative.
 
+We were recently featured in <a href="https://sh1.sendinblue.com/vdnd1plbpt7e.html?t=1602536427">A.I. For Anyone's newsletter</a>.
+
 ## High-School Outreach Course
 
 AI and ML have become extremely prevalent in society, from powering the voice assistants on our smartphones to improving medical diagnoses. Regardless of what areas high schoolers plan to pursue upon graduation, they’re likely to encounter AI and ML-related technologies in their future careers.
